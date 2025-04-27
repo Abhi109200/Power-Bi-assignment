@@ -40,6 +40,11 @@ Interactive Visuals: Comprehensive graphs and charts for dynamic exploration of 
 Regional and Temporal Analysis: Breakdown by location and time for targeted insights.
 Profitability Trends: Focus on profit distribution across regions and product lines.
 
+### Data Modelling
+![Screenshot 2025-04-27 190401](https://github.com/user-attachments/assets/30428e11-05da-4453-a515-253f731776f8)
+### Dashboard
+![Screenshot 2025-04-27 221235](https://github.com/user-attachments/assets/b12a4308-e7d2-4b4a-aa13-d0e0027e241a)
+
 Applications
 The insights generated from these dashboards can aid:
 Strategic planning for businesses.
