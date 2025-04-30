@@ -42,7 +42,8 @@ Profitability Trends: Focus on profit distribution across regions and product li
 
 ### Data Modelling
 ![Screenshot 2025-04-27 190401](https://github.com/user-attachments/assets/30428e11-05da-4453-a515-253f731776f8)
-### Dashboard
+### Live Dashboard Link
+https://app.powerbi.com/view?r=eyJrIjoiMDQyMDQyYzEtMmU2MC00MjBlLTk5OWUtYmFjMzBiNmU0YTE2IiwidCI6IjYyZTQwMTQ3LTIzNTEtNDliYy04OWNmLWVmOThjZjA3ZDE1MiJ9
 ![Screenshot 2025-04-27 221235](https://github.com/user-attachments/assets/b12a4308-e7d2-4b4a-aa13-d0e0027e241a)
 
 Applications
